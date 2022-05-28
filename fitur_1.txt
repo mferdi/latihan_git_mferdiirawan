@@ -1,1 +1,3 @@
-ini fitur satu 
+ini fitur satu
+
+ini bio dari fitur satu 
